@@ -12,4 +12,4 @@ Pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui offici
 
 here is an image:
 
-<img src="../images/profile.png" width="400px">
+<img src="../images/profile.png" style="width:128px;height:128px;">
