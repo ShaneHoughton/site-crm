@@ -7,3 +7,13 @@ Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute i
 ### Research Findings
 
 Pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum sed perspiciatis unde omnis iste natus.
+
+```ts
+// this is a react component:
+export const myComponent = () => {
+    const [state, setState] = useState('hello...');
+    return (
+        <div>{state}</div>
+    )
+}
+```
