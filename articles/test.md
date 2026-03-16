@@ -17,7 +17,7 @@ ahhh
 who did it?
 
 | Feature | Support | 
-| ---------: | :------------------- | 
+| --------- | ------------------- | 
 | CommonMark | 100% | 
 | GFM | 100% w/ remark-gfm |
 
